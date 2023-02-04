@@ -18,3 +18,32 @@
 |23/01/20| object detection, segmentation 결과 공유(비대면) |
 |23/01/27| 면적을 특정할 수 있는 상황으로 제한, head detection 수행 및 데이터셋 수집해보기(대면) |
 |23/01/29| 회의 예정(비대면) |
+
+
+### Our Models
+![demo](./imgs/img.PNG)
+
+### Install
+Before running this program, **please create a virtual environment by running the code below for a better execution environment.** 
+
+```
+$ git clone https://github.com/CUAI-CAU/2022_Summer_CV5.git
+```
+
+This code was tested with `python 3.7`, `torch 1.7`
+
+```python
+$ conda create -n crowd_density python=3.8
+$ conda activate crowd_density
+$ pip install -r requirements.txt
+```
+
+### Pretrained
+you can download pretrained checkpoint [here](https://drive.google.com/file/d/1JMd6_RCucjx9ozuW4o0U1kt3TQJpaty4/view?usp=sharing)
+
+### Demo
+
+```python
+python demo.py --weights head_yolo.pt --source test/ --area 50 --view-img
+```
+
