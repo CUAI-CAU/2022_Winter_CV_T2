@@ -30,13 +30,13 @@ Before running this program, **please create a virtual environment by running th
 $ git clone https://github.com/CUAI-CAU/2022_Summer_CV5.git
 ```
 
-This code was tested with `python 3.7`, `torch 1.7`
-
 ```python
-$ conda create -n crowd_density python=3.8
+$ conda create -n crowd_density python=3.7
 $ conda activate crowd_density
 $ pip install -r requirements.txt
 ```
+
+This code was tested with `python 3.7`, `torch 1.7`
 
 ### Pretrained
 you can download pretrained checkpoint [here](https://drive.google.com/file/d/1JMd6_RCucjx9ozuW4o0U1kt3TQJpaty4/view?usp=sharing)
