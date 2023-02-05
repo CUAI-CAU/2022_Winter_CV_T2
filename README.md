@@ -27,7 +27,7 @@
 Before running this program, **please create a virtual environment by running the code below for a better execution environment.** 
 
 ```
-$ git clone https://github.com/CUAI-CAU/2022_Summer_CV5.git
+$ git clone https://github.com/CUAI-CAU/2022_Winter_CV_T2.git
 ```
 
 ```python
