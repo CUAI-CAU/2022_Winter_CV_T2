@@ -17,7 +17,10 @@
 |23/01/16| object detection, segmentation 쪽 조사로 역할 분담(대면) |
 |23/01/20| object detection, segmentation 결과 공유(비대면) |
 |23/01/27| 면적을 특정할 수 있는 상황으로 제한, head detection 수행 및 데이터셋 수집해보기(대면) |
-|23/01/29| 회의 예정(비대면) |
+|23/01/29| 수집한 데이터셋 공유 및 head detection 재수행(비대면) |
+|23/02/02| short paper & 발표를 위한 전체 프로세스 정리(대면) |
+|23/02/04| object detection 모델 최종 수정 및 역할 분담(비대면) |
+|23/02/06| 발표 ppt 제작 및 발표 대본 작성(대면&비대면) |
 
 
 ### Our Models
